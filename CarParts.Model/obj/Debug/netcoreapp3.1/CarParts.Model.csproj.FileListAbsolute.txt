@@ -1,0 +1,9 @@
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\bin\Debug\netcoreapp3.1\CarParts.Model.deps.json
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\bin\Debug\netcoreapp3.1\CarParts.Model.dll
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\bin\Debug\netcoreapp3.1\CarParts.Model.pdb
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\obj\Debug\netcoreapp3.1\CarParts.Model.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\obj\Debug\netcoreapp3.1\CarParts.Model.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\obj\Debug\netcoreapp3.1\CarParts.Model.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\obj\Debug\netcoreapp3.1\CarParts.Model.csproj.CoreCompileInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\obj\Debug\netcoreapp3.1\CarParts.Model.dll
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Model\obj\Debug\netcoreapp3.1\CarParts.Model.pdb

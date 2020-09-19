@@ -1,0 +1,15 @@
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Infrastructure.deps.json
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Infrastructure.dll
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.csprojAssemblyReference.cache
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.AssemblyInfo.cs
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Infrastructure.runtimeconfig.json
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Infrastructure.runtimeconfig.dev.json
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.genruntimeconfig.cache
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Model.dll
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Infrastructure.pdb
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\bin\Debug\netcoreapp3.1\CarParts.Model.pdb
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.csproj.CopyComplete
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.dll
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.pdb
+C:\Users\ahmed.ayaad\source\repos\CarParts\CarParts.Infrastructure\obj\Debug\netcoreapp3.1\CarParts.Infrastructure.csproj.CoreCompileInputs.cache
